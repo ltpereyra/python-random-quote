@@ -1,4 +1,4 @@
-def main():
+def main(primary):
 <<<<<<< HEAD
    print("Keep it logically awesome.")
 =======
@@ -12,4 +12,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  main(primary)
